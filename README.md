@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Abu Zaid</h1>
-<h3 align="center">A Passionate Frontend Developer From Egypt</h3>
+<h1 align="">Hi 👋, I'm Mahmoud Abu Zaid</h1>
+<h3 align="">A Passionate Frontend Developer From Egypt</h3>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-abu-zaid&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-abu-zaid" /> </p>
 
