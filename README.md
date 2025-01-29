@@ -22,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abu-zaid&show_icons=true&locale=en" alt="mahmoud-abu-zaid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abu-zaid&" alt="mahmoud-abu-zaid" /></p>
 
 
 
